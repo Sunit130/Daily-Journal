@@ -1,0 +1,20 @@
+Challenge 1 : Gold
+Challenge 2 : Gold
+Challenge 3 : Gold (miss ';' in <%- include("header"); -%>)
+Challenge 4 : Gold
+Challenge 5 : Gold
+Challenge 6 : Gold
+Challenge 7 : Gold
+Challenge 8 : Gold
+Challenge 9 : Gold
+Challenge 10 : Gold
+Challenge 11 : Gold
+Challenge 12 : Gold
+Challenge 13 : Gold
+Challenge 14 : Gold (posts.forEach(function(element){ console.log(element); }))
+Challenge 15 : Gold
+Express Routing Parameters (url : home/:temp1, use : req.params.temp1)
+Challenge 16 : Gold
+Challenge 17 : Gold
+Challenge 18 : Gold (_.lowerCase)
+Challenge 19 : Gold
