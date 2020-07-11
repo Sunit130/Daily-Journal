@@ -1,2 +1,2 @@
 # Daily-Journal
-Daily Journal is a web application built using Express.js with Node.js.
+Daily Journal is a blogging web application built using Express.js with Node.js.
